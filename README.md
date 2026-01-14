@@ -1,9 +1,3 @@
-Below is a **fully optimized, SEO-focused README enhancement** designed to **increase GitHub discoverability, stars, and search ranking** for **The Auditor** — while staying clean, technical, and trustworthy.
-
-You can **merge this directly** into your existing README (replace or extend sections).
-
----
-
 # 🧾 The Auditor — USB System Insight & Audit Tool
 
 > **Portable, offline system audit tool for Windows**
